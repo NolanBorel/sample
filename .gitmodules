@@ -1,0 +1,3 @@
+[submodule "lib/Lib_IPME"]
+	path = lib/Lib_IPME
+	url = https://github.com/NolanBorel/Lib_IPME.git
